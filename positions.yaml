@@ -1,0 +1,49 @@
+- Cell: Ref
+  Current (mA): 0
+  Position: !!python/tuple
+  - 66.21394348144531
+  - 112.12226867675781
+  Status: Waiting
+  Time (s): 0
+- Cell: HAB7_MJ
+  Current (mA): 0
+  Position: !!python/tuple
+  - 80.03019714355469
+  - 139.88719177246094
+  Status: Waiting
+  Time (s): 0
+- Cell: HAB7_ER
+  Current (mA): 0
+  Position: !!python/tuple
+  - 73.44164276123047
+  - 140.2684783935547
+  Status: Waiting
+  Time (s): 0
+- Cell: HAB7_II
+  Current (mA): 0
+  Position: !!python/tuple
+  - 65.95452880859375
+  - 139.8038330078125
+  Status: Waiting
+  Time (s): 0
+- Cell: HAB7_IQ
+  Current (mA): 0
+  Position: !!python/tuple
+  - 59.006797790527344
+  - 139.85198974609375
+  Status: Waiting
+  Time (s): 0
+- Cell: HAB7_CL
+  Current (mA): 0
+  Position: !!python/tuple
+  - 51.86246109008789
+  - 139.8162841796875
+  Status: Waiting
+  Time (s): 0
+- Cell: HAB7_CP
+  Current (mA): 0
+  Position: !!python/tuple
+  - 44.882381439208984
+  - 139.70542907714844
+  Status: Waiting
+  Time (s): 0
